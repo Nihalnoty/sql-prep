@@ -1,6 +1,6 @@
 # SQL Interview Preparation
 
-## Previously Studied — Verify
+## Previously Studied — Verify.
 - \( \) Module 1: DBMS Fundamentals
 - \( \) Module 2: SQL Fundamentals
 - \( \) Module 3: Aggregations and Grouping
